@@ -1,0 +1,142 @@
+2024-11-11 13:14:39,542 - INFO - Total matches found: 20
+2024-11-11 13:14:40,959 - INFO - Total matches found: 20
+2024-11-11 13:15:50,035 - INFO - 1 change detected
+2024-11-11 13:15:50,605 - INFO - 1 change detected
+2024-11-11 13:15:54,151 - INFO - 1 change detected
+2024-11-11 13:15:54,672 - INFO - 3 changes detected
+2024-11-11 13:15:56,334 - INFO - Total matches found: 20
+2024-11-11 13:15:59,530 - INFO - 1 change detected
+2024-11-11 13:16:00,376 - INFO - 1 change detected
+2024-11-11 13:16:35,268 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-11-11 13:16:35,347 - INFO - 1 change detected
+2024-11-11 13:17:01,280 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-11-11 13:17:01,376 - INFO - 1 change detected
+2024-11-11 13:17:31,689 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-11-11 13:17:31,833 - INFO - 1 change detected
+2024-11-11 13:18:00,569 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-11-11 13:18:00,679 - INFO - 1 change detected
+2024-11-11 13:18:21,618 - INFO - 3 changes detected
+2024-11-11 14:11:37,397 - INFO - Total matches found: 19
+2024-11-11 14:11:38,852 - INFO - Total matches found: 19
+2024-11-11 14:14:15,035 - INFO - 1 change detected
+2024-11-11 14:14:15,588 - INFO - 1 change detected
+2024-11-11 14:14:15,949 - INFO - 3 changes detected
+2024-11-11 14:14:16,771 - INFO - Total matches found: 20
+2024-11-11 14:15:00,569 - INFO - 1 change detected
+2024-11-11 14:15:01,126 - INFO - 1 change detected
+2024-11-11 14:15:01,487 - INFO - 3 changes detected
+2024-11-11 14:15:02,633 - INFO - Total matches found: 20
+2024-11-11 14:15:03,475 - INFO - 1 change detected
+2024-11-11 14:15:04,016 - INFO - 1 change detected
+2024-11-11 14:15:04,378 - INFO - 3 changes detected
+2024-11-11 14:15:05,217 - INFO - Total matches found: 20
+2024-11-11 14:15:36,384 - INFO - 1 change detected
+2024-11-11 14:15:36,905 - INFO - 1 change detected
+2024-11-11 14:15:37,270 - INFO - 3 changes detected
+2024-11-11 14:15:38,028 - INFO - Total matches found: 20
+2024-11-11 14:15:42,897 - INFO - 1 change detected
+2024-11-11 14:15:43,451 - INFO - 1 change detected
+2024-11-11 14:15:43,815 - INFO - 3 changes detected
+2024-11-11 14:15:44,638 - INFO - Total matches found: 20
+2024-11-11 14:15:51,341 - INFO - Total matches found: 20
+2024-11-11 14:15:52,964 - INFO - Total matches found: 20
+2024-11-11 14:16:50,732 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-11-11 14:16:50,842 - INFO - 1 change detected
+2024-11-11 14:18:03,437 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-11-11 14:18:03,532 - INFO - 1 change detected
+2024-11-11 14:18:48,249 - INFO - 1 change detected
+2024-11-11 14:18:48,751 - INFO - 1 change detected
+2024-11-11 14:18:49,114 - INFO - 3 changes detected
+2024-11-11 14:18:49,983 - INFO - Total matches found: 20
+2024-11-11 14:18:55,625 - INFO - 1 change detected
+2024-11-11 14:18:56,109 - INFO - 1 change detected
+2024-11-11 14:18:56,468 - INFO - 3 changes detected
+2024-11-11 14:18:57,730 - INFO - Total matches found: 20
+2024-11-11 14:19:57,001 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-11-11 14:19:57,168 - INFO - 1 change detected
+2024-11-11 14:21:37,757 - INFO - 1 change detected
+2024-11-11 14:21:38,248 - INFO - 1 change detected
+2024-11-11 14:21:38,612 - INFO - 3 changes detected
+2024-11-11 14:21:39,490 - INFO - Total matches found: 20
+2024-11-11 14:23:20,650 - INFO - 1 change detected
+2024-11-11 14:23:21,150 - INFO - 1 change detected
+2024-11-11 14:23:21,516 - INFO - 3 changes detected
+2024-11-11 14:23:22,686 - INFO - Total matches found: 20
+2024-11-11 14:23:36,406 - INFO - 1 change detected
+2024-11-11 14:23:36,895 - INFO - 1 change detected
+2024-11-11 14:23:37,260 - INFO - 3 changes detected
+2024-11-11 14:23:38,106 - INFO - Total matches found: 20
+2024-11-11 14:23:49,374 - INFO - Total matches found: 20
+2024-11-11 14:23:51,117 - INFO - Total matches found: 20
+2024-11-11 14:24:45,566 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-11-11 14:24:45,681 - INFO - 1 change detected
+2024-11-11 14:25:06,539 - INFO - 1 change detected
+2024-11-11 14:25:07,020 - INFO - 1 change detected
+2024-11-11 14:25:07,374 - INFO - 3 changes detected
+2024-11-11 14:25:08,208 - INFO - Total matches found: 20
+2024-11-11 14:25:13,366 - INFO - 1 change detected
+2024-11-11 14:25:13,935 - INFO - 1 change detected
+2024-11-11 14:25:14,301 - INFO - 3 changes detected
+2024-11-11 14:25:15,331 - INFO - Total matches found: 20
+2024-11-11 14:25:33,074 - INFO - 1 change detected
+2024-11-11 14:25:33,583 - INFO - 1 change detected
+2024-11-11 14:25:33,946 - INFO - 3 changes detected
+2024-11-11 14:25:34,702 - INFO - Total matches found: 20
+2024-11-11 14:25:40,450 - INFO - 1 change detected
+2024-11-11 14:25:40,937 - INFO - 1 change detected
+2024-11-11 14:25:41,299 - INFO - 3 changes detected
+2024-11-11 14:25:42,021 - INFO - Total matches found: 20
+2024-11-11 14:26:25,611 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-11-11 14:26:25,769 - INFO - 1 change detected
+2024-11-11 14:27:17,028 - INFO - 1 change detected
+2024-11-11 14:27:17,547 - INFO - 1 change detected
+2024-11-11 14:27:17,908 - INFO - 3 changes detected
+2024-11-11 14:27:19,133 - INFO - Total matches found: 20
+2024-11-11 14:27:26,182 - INFO - 1 change detected
+2024-11-11 14:27:26,721 - INFO - 4 changes detected
+2024-11-11 14:27:27,911 - INFO - Total matches found: 20
+2024-11-11 14:28:47,039 - INFO - 1 change detected
+2024-11-11 14:28:47,634 - INFO - 4 changes detected
+2024-11-11 14:28:48,721 - INFO - Total matches found: 20
+2024-11-11 14:29:27,228 - INFO - Total matches found: 20
+2024-11-11 14:29:28,655 - INFO - Total matches found: 20
+2024-11-11 14:30:00,039 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-11-11 14:30:00,170 - INFO - 1 change detected
+2024-11-11 14:30:01,226 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 400 Bad Request"
+2024-11-11 14:42:58,908 - INFO - 1 change detected
+2024-11-11 14:42:59,445 - INFO - 1 change detected
+2024-11-11 14:42:59,809 - INFO - 3 changes detected
+2024-11-11 14:43:00,864 - INFO - Total matches found: 20
+2024-11-11 14:43:02,549 - INFO - 1 change detected
+2024-11-11 14:43:03,050 - INFO - 1 change detected
+2024-11-11 14:43:03,409 - INFO - 3 changes detected
+2024-11-11 14:43:04,275 - INFO - Total matches found: 20
+2024-11-11 14:43:47,381 - INFO - 1 change detected
+2024-11-11 14:43:47,908 - INFO - 1 change detected
+2024-11-11 14:43:48,268 - INFO - 3 changes detected
+2024-11-11 14:43:49,223 - INFO - Total matches found: 20
+2024-11-11 14:44:43,717 - WARNING - Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x111e3e780>: Failed to establish a new connection: [Errno 61] Connection refused')': /session/9baf72a39193bf0ee477c04b55960df9/element
+2024-11-11 14:44:43,719 - WARNING - Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x111e3e450>: Failed to establish a new connection: [Errno 61] Connection refused')': /session/9baf72a39193bf0ee477c04b55960df9/element
+2024-11-11 14:44:43,720 - WARNING - Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x111e3ee10>: Failed to establish a new connection: [Errno 61] Connection refused')': /session/9baf72a39193bf0ee477c04b55960df9/element
+2024-11-11 14:44:48,730 - WARNING - Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x111e3f320>: Failed to establish a new connection: [Errno 61] Connection refused')': /session/9baf72a39193bf0ee477c04b55960df9/element
+2024-11-11 14:44:48,731 - WARNING - Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x1107221e0>: Failed to establish a new connection: [Errno 61] Connection refused')': /session/9baf72a39193bf0ee477c04b55960df9/element
+2024-11-11 14:44:48,732 - WARNING - Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x111e3ec30>: Failed to establish a new connection: [Errno 61] Connection refused')': /session/9baf72a39193bf0ee477c04b55960df9/element
+2024-11-11 14:44:48,734 - WARNING - Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x111e3e960>: Failed to establish a new connection: [Errno 61] Connection refused')': /session/9baf72a39193bf0ee477c04b55960df9
+2024-11-11 14:44:48,735 - WARNING - Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x111e3f4a0>: Failed to establish a new connection: [Errno 61] Connection refused')': /session/9baf72a39193bf0ee477c04b55960df9
+2024-11-11 14:44:48,736 - WARNING - Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x111e3f5c0>: Failed to establish a new connection: [Errno 61] Connection refused')': /session/9baf72a39193bf0ee477c04b55960df9
+2024-11-11 14:45:10,371 - INFO - Total matches found: 20
+2024-11-11 14:45:12,618 - INFO - Total matches found: 20
+2024-11-11 14:46:50,205 - INFO - Total matches found: 20
+2024-11-11 14:46:51,731 - INFO - Total matches found: 20
+2024-11-11 14:47:18,160 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-11-11 14:47:18,293 - INFO - 1 change detected
+2024-11-11 14:47:39,836 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-11-11 14:50:33,211 - INFO - 1 change detected
+2024-11-11 14:50:33,724 - INFO - 1 change detected
+2024-11-11 14:50:34,085 - INFO - 3 changes detected
+2024-11-11 14:50:35,204 - INFO - Total matches found: 20
+2024-11-11 15:18:24,189 - INFO - Total matches found: 20
+2024-11-11 15:18:25,699 - INFO - Total matches found: 20
+2024-11-11 15:28:11,610 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-11-11 15:28:11,772 - INFO - 1 change detected
+2024-11-11 15:28:17,896 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
