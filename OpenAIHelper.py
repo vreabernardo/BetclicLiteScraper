@@ -187,8 +187,7 @@ class OpenAIHelper:
             {match_stats_json}
             """
         }
-
-        # Call OpenAI API (assuming self.client is properly initialized)
+        
         completion = self.client.chat.completions.create(
             model="gpt-4o-mini",
             messages=[system_message, user_message],
